@@ -21,9 +21,13 @@ Both the complete data sets and the Principal Component Analysis manage to clust
 
 ![image](/Price_Changes_Coins.png)
 
-![image](/Elbow_Curve_Comparisons_PCA_vs_Full.png)
+![image](/Elbow_Curve_Full.png)
 
-![image](/ScatterPlot_Comparisons_PCA_vs_Full.png)
+![image](/Elbow_Curve_PCA.png)
+
+![image](/ScatterPlot_Full.png)
+
+![image](/ScatterPlot_PCA.png)
 
 ![image](/ScatterPlot_Full_3D.png)
 

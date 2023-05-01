@@ -16,7 +16,7 @@ The work is divided into the following subsections:
 
 ## Results and summary
 
-Both the complete data sets and the Principal Component Analysis manage to cluster the coins. Both of the Elbow Charts are very similar and suggest using 4 clusters. There are 2 coins that fall on their own cluster (namely Celsius-Degree-Token and Ethlend). The rest of the coins fall in one of 2 groups.
+Both the complete data sets and the Principal Component Analysis manage to cluster the coins. About 89.5% of the total variance is condensed into the 3 PCA variables. Both of the Elbow Charts are very similar and suggest using 4 clusters. There are 2 coins that fall on their own cluster (namely Celsius-Degree-Token and Ethlend). The rest of the coins fall in one of 2 groups.
 
 
 ![image](/Price_Changes_Coins.png)

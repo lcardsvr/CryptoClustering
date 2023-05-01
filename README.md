@@ -33,3 +33,6 @@ Both the complete data sets and the Principal Component Analysis manage to clust
 ## Submission
 
 1. Submitted and available in GitHub under https://github.com/lcardsvr/CryptoClustering
+
+2. Jupyter Notebook available in GitHub under https://github.com/lcardsvr/CryptoClustering/blob/main/Crypto_Clustering.ipynb
+
